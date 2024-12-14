@@ -1,4 +1,4 @@
-#include "tester.h"
+#include "libft.h"
 
 int	ft_isalpha(int c)
 {
@@ -6,7 +6,7 @@ int	ft_isalpha(int c)
 	{
 		return 1;
 	}
-	else 
+	else
 	{
 		return 0;
 	}
